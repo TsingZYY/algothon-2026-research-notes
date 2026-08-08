@@ -1,0 +1,17 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.tmp
+*.log
+
+# This repository intentionally contains notes only.
+*.py
+*.ipynb
+*.csv
+*.json
+*.txt
+*.zip
+*.npy
+*.npz
